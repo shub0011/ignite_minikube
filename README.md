@@ -47,5 +47,6 @@ following are the helpful commands
   minikube dashboard
 
 
+#The image we are using : 
 
-
+https://hub.docker.com/r/alpert/ignite (1M pulls)
